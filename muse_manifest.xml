@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="imya-ne-imeet-znacheniya.github.io" resolutions="1x" timestamp="1478378894296">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="cv.css" crc="295248252" ref="cv"/>
+    <file name="contact.css" crc="259266115" ref="contact"/>
+    <file name="index.css" crc="454228904" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="sequence-01_1.mp4" crc="177479592" seo="true" mt="1478372489000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:cv:contact"/>
+    <file name="museutils.js" crc="3851988764" ref="index:cv:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:cv:contact"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:cv:contact"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:cv:contact"/>
+    <file name="require.js" crc="4108833657" ref="index:cv:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="14954503_10154721422973885_142593527_o.jpg" crc="310345051" seo="true" ref="cv"/>
+  </folder>
+  <file name="index.html" crc="3995341966" seo="true" mt="1478378868827" redirect="true"/>
+  <file name="cv.html" crc="3764347408" seo="true" mt="1478378768789" redirect="true"/>
+  <file name="contact.html" crc="3990291726" seo="true" mt="1478378853056" redirect="true"/>
+</manifest>
